@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./A_digital_graphic_web_banner_features_Gabriel_Pinh.png" alt="Gabriel Pinheiro banner" />
+  <img src="./BANNER GP" alt="Gabriel Pinheiro banner" />
 </p>
 
 # 👋 Hey there, welcome to my GitHub 
