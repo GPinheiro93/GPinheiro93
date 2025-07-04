@@ -40,7 +40,7 @@ I focus on creating creative, human-centered websites and applications using **H
 ---
 
 ## 📊 GitHub Stats
-
+![Estadísticas de Gabriel](https://github-readme-stats.vercel.app/api/pin-lang?GPinheiro93&layout=compact&theme=dark&count_private=true)
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GPinheiro93&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GPinheiro93&layout=compact&theme=tokyonight)
 
