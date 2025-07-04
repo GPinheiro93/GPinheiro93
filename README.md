@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="A_digital_graphic_web_banner_features_Gabriel_Pinh.png" alt="Gabriel Pinheiro banner" />
+</p>
+
 # 👋 Hey there, welcome to my GitHub
 
 Hi! I'm **Gabriel Pinheiro** (he/him) 🇧🇷 — a passionate web developer who believes in building meaningful digital experiences.  
