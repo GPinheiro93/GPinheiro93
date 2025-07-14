@@ -49,7 +49,7 @@ I focus on creating creative, human-centered websites and applications using **H
 
 ## 📫 Let's Connect
 - 
-- 🌍 [All My Links]((https://beacons.ai/gpinheiro_hub))  
+- 🌍 [All My Links] [https://beacons.ai/gpinheiro_hub]
 - 📧 Contact: [Contact@gpinheirohub.com](mailto:Contact@gpinheirohub.com)  
 - 🚀 Open to collaborations, freelance work, and exciting tech ideas
 
