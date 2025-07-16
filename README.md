@@ -44,7 +44,7 @@ I focus on creating creative, human-centered websites and applications using **H
 
 [![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=GPinheiro93&layout=compact&theme=dracula&langs_count=8)](https://github.com/GPinheiro93)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=GPinheiro93&theme=dracula&locale=es&mode=weekly)](https://git.io/streak-stats) 
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=GPinheiro93&layout=compact&theme=dracula&langs_count=12)](https://github.com/GPinheiro93)
 ---
 
 ## 📫 Let's Connect
